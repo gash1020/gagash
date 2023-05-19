@@ -29,6 +29,7 @@ a {
   opacity: 0.7;
   font-size: 45px;
   letter-spacing: 5px;
+  color:red;
 }
 
 .top-wrapper p {
@@ -268,7 +269,9 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
+  
   span{
-    color:red;
+    color:blue;
+    text-align:left;
   }
 }
